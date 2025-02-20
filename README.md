@@ -1,3 +1,2 @@
 # guess-the-number-
-hahahahaha
-#hahhahha
+basic but fun game made in JS. check it out !!! ⛄
